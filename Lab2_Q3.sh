@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# check whether the particular no. belongs to grades
+
 # Enter the integer
 echo "Enter a mark : "
 read mark

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# check whether entered number is even or odd using if-else
+
 # Enter the integer
 echo "Enter an integer : "
 read num
